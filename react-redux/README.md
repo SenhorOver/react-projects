@@ -32,7 +32,9 @@ Criar aplicação funcional para consumir API REST
 
 ### What I learned
 
-- Diversos conceitos do React e como implementar e utilizar Redux e novas funções do Styled Components
+- Diversos conceitos do React
+- Como implementar e utilizar Redux
+- Novas Funções do Styled Components
 
 ## Author
 

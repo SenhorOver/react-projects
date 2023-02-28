@@ -1,6 +1,6 @@
 # React
 
-![React Image](../imgs/react.PNG))
+![React Image](../imgs/react.PNG)
 
 ## Table of contents
 
